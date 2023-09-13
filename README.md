@@ -114,13 +114,13 @@ print(model.predict(inp))
 
 ## Output
 ### Preview dataset
-![output](previewdataset1.png)
+ ![output](previewdataset1.png)
 
 ### Testing model
-![output](testingmodel.png)
+ ![output](testingmodel.png)
 
 ### Accuracy
-![output](Accuracy3.png)
+ ![output](Accuracy3.png)
 
 ### Outcome prediction
-![output](outcomepredt4.png)
+ ![output](outcomepredt4.png)
