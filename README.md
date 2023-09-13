@@ -117,10 +117,11 @@ print(model.predict(inp))
  ![previewdataset1](https://github.com/kiran03-jagadeesh/Hate-Speech-and-Offensive-Language/assets/94174536/7565c69d-be6b-4796-aa4e-05c4cd3a1823)
 
 ### Testing model
- ![output](testingmodel.png)
+ ![testingmodel](https://github.com/kiran03-jagadeesh/Hate-Speech-and-Offensive-Language/assets/94174536/3de932e4-e082-45b4-8626-a0405c6eb8c6)
 
 ### Accuracy
- ![output](Accuracy3.png)
+![Accuracy3](https://github.com/kiran03-jagadeesh/Hate-Speech-and-Offensive-Language/assets/94174536/9b51034e-e434-48fa-80d9-178c689a110c)
 
 ### Outcome prediction
- ![output](outcomepredt4.png)
+![outcomepredt4](https://github.com/kiran03-jagadeesh/Hate-Speech-and-Offensive-Language/assets/94174536/5f2f9ed7-00f6-4f49-964d-85639853dd5e)
+
