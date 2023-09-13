@@ -114,7 +114,7 @@ print(model.predict(inp))
 
 ## Output
 ### Preview dataset
- ![output](previewdataset1.png)
+ ![previewdataset1](https://github.com/kiran03-jagadeesh/Hate-Speech-and-Offensive-Language/assets/94174536/7565c69d-be6b-4796-aa4e-05c4cd3a1823)
 
 ### Testing model
  ![output](testingmodel.png)
