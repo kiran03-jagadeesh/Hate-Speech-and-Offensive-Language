@@ -30,8 +30,8 @@
         Hate Speech Votes – The number of users who categorized the tweet as hate speech.
         Offensive Language Votes – The count of users who labeled the tweet as offensive.
         Neutral Votes – The number of users who considered the tweet neither offensive nor non-offensive.
-        Label – This column provides a class label based on the majority of user judgments, with 0 signifying hate speech, 
-        1 representing offensive language, and 2 indicating neither.
+        Label – This column provides a class label based on the majority of user judgments, with 0 signifying 
+        hate speech,1 representing offensive language, and 2 indicating neither.
         Text Content – This column contains the actual text of the tweet.
 
 
